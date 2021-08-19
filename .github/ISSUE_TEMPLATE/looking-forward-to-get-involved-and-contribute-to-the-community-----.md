@@ -1,9 +1,9 @@
 ---
 name: "Looking forward to get involved and contribute to the community \U0001F389❄ "
 about: Invitation for joining CODE++
-title: ''
+title: Invitation for joining CODE++
 labels: good first issue, Join Community
-assignees: ''
+assignees: JAYKALIA007, Subhampreet
 
 ---
 
